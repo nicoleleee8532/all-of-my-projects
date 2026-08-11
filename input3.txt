@@ -1,0 +1,9 @@
+States: q0 q1
+Alphabet: 0 1
+Start: q0
+Final: q1
+Transitions:
+q0 0 -
+q0 1 q1
+q1 0 -
+q1 1 -
